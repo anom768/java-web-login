@@ -1,0 +1,3 @@
+com\bangkit\anom\web\repository\UserRepositoryImplTest.class
+com\bangkit\anom\web\util\DatabaseUtilTest.class
+com\bangkit\anom\web\service\UserServiceImplTest.class
